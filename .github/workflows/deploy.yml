@@ -6,11 +6,12 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Deploy
-      uses: exuanbo/actions-deploy-gist@v1
-        with:
-          token: ${{ secrets.TOKEN }}
-          gist_id: https://gist.github.com/alanhg/319abbb366555ff806428427ba1e888f
-          gist_file_name: uBlacklist.txt
-          file_path: uBlacklist.txt
+      - name: Git checkout
+        uses: actions/checkout@v2
+      - name: Deploy To Gist
+        uses: exuanbo/actions-deploy-gist@v1
+          with:
+           token: ${{ secrets.TOKEN }}
+           gist_id: https://gist.github.com/alanhg/319abbb366555ff806428427ba1e888f
+           gist_file_name: uBlacklist.txt
+            file_path: uBlacklist.txt
