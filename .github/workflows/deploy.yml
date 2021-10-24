@@ -14,4 +14,4 @@ jobs:
           token: ${{ secrets.TOKEN }}
           gist_id: https://gist.github.com/alanhg/319abbb366555ff806428427ba1e888f
           gist_file_name: uBlacklist.txt
-          file_path: uBlacklist.txt
+          file_path: ./uBlacklist.txt
