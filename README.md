@@ -5,4 +5,4 @@
 [uBlacklist](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe?utm_source=chrome-ntp-icon)
 
 ## 订阅地址
-- https://gist.githubusercontent.com/alanhg/319abbb366555ff806428427ba1e888f/raw/5b1a3008837b3eaa1ab0f2bd1d1ea12884a6c174/uBlacklist.txt
+- https://gist.githubusercontent.com/alanhg/319abbb366555ff806428427ba1e888f/raw/a9fff86f8f98d9e51419e3df1cd99ecd51fde3e7/uBlacklist.txt
