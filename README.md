@@ -6,3 +6,7 @@
 
 ## 订阅地址
 - https://gist.githubusercontent.com/alanhg/319abbb366555ff806428427ba1e888f/raw/a9fff86f8f98d9e51419e3df1cd99ecd51fde3e7/uBlacklist.txt
+
+另外推荐订阅如下
+
+- 小搭百科网 https://raw.githubusercontent.com/dallaslu/penzai-list/main/uBlacklist.txt
