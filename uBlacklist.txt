@@ -4,3 +4,4 @@
 *://www.jb51.net/*
 *://zh-hans.reactjs.org/*
 *://react-cn.github.io/*
+*://www.jianshu.com/*
